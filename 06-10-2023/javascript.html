@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #sonuc{
+            background: lightgreen;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <!--
+        Java = Bir makine ortamında bağımsız olarak çalıştırabileceği
+        anlamına gelen nesne yönelimli programlama dilidir. Android
+        cihazlar için uygulamalar terminaller için yazılımlar ve sunucu
+        taraflı web sayfaları hazırlamak için kullanılan güvenilir bir
+        dildir. Java uygulaması çalışabilmesi için derlenmesi gerekir.
+        Javascript = Javasript diğer taraftan web tabanlı bir uygulamanın
+        bir  parçası olarak çalıştırılacak olan metin tabanlı bir betik
+        dildir. İlk geliştirildiğinde Java için bir iltifat olması
+        amaçlandı ve Javascript Sunucu ve Web tabanlı değil sadece
+        Web tabanlı çalışır.
+    -->
+    <h2>JavaScript Hipotenüs Hesaplama</h2>
+    <input placeholder="1. Kenarı Giriniz" type="text" id="txtKenar1" />
+    <input placeholder="2. Kenarı Giriniz" type="text" id="txtKenar2" />
+    <button id="btn">Hesapla</button>
+    <hr/>
+    <div id="sonuc"></div>
+    <script>
+        function Hesapla(){
+            var k1 = Number(document.getElementById("txtKenar1").value);
+            var k2 = Number(document.getElementById("txtKenar2").value);
+            var hipotenus = Math.sqrt((k1*k1)+(k2*k2));
+            document.getElementById("sonuc")
+            .innerHTML="Hipotenüs : " + hipotenus;
+        }
+        var hesapBtn= document.getElementById("btn");
+        hesapBtn.onclick = Hesapla;
+    </script>
+</body>
+</html>
