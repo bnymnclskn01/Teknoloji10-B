@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Teknoloji10-AConsole/1.0.0": {
+        "runtime": {
+          "Teknoloji10-AConsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Teknoloji10-AConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

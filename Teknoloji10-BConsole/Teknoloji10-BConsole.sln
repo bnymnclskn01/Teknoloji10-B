@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teknoloji10-BConsole", "Teknoloji10-BConsole\Teknoloji10-BConsole.csproj", "{751B657D-9126-466E-A4DC-92682CAC1CAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teknoloji10-AConsole", "Teknoloji10-AConsole\Teknoloji10-AConsole.csproj", "{F5C506F7-46B6-45F3-88D4-E17B126735BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{751B657D-9126-466E-A4DC-92682CAC1CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{751B657D-9126-466E-A4DC-92682CAC1CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{751B657D-9126-466E-A4DC-92682CAC1CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{751B657D-9126-466E-A4DC-92682CAC1CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5C506F7-46B6-45F3-88D4-E17B126735BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5C506F7-46B6-45F3-88D4-E17B126735BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5C506F7-46B6-45F3-88D4-E17B126735BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5C506F7-46B6-45F3-88D4-E17B126735BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEC5E3AD-3265-4324-84A0-1851C371DC00}
+	EndGlobalSection
+EndGlobal

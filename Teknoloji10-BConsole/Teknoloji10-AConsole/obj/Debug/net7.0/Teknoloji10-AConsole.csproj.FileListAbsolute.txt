@@ -1,0 +1,15 @@
+C:\Users\fnsss\Documents\GitHub\Teknoloji10-B\Teknoloji10-BConsole\Teknoloji10-AConsole\bin\Debug\net7.0\Teknoloji10-AConsole.exe
+C:\Users\fnsss\Documents\GitHub\Teknoloji10-B\Teknoloji10-BConsole\Teknoloji10-AConsole\bin\Debug\net7.0\Teknoloji10-AConsole.deps.json
+C:\Users\fnsss\Documents\GitHub\Teknoloji10-B\Teknoloji10-BConsole\Teknoloji10-AConsole\bin\Debug\net7.0\Teknoloji10-AConsole.runtimeconfig.json
+C:\Users\fnsss\Documents\GitHub\Teknoloji10-B\Teknoloji10-BConsole\Teknoloji10-AConsole\bin\Debug\net7.0\Teknoloji10-AConsole.dll
+C:\Users\fnsss\Documents\GitHub\Teknoloji10-B\Teknoloji10-BConsole\Teknoloji10-AConsole\bin\Debug\net7.0\Teknoloji10-AConsole.pdb
+C:\Users\fnsss\Documents\GitHub\Teknoloji10-B\Teknoloji10-BConsole\Teknoloji10-AConsole\obj\Debug\net7.0\Teknoloji10-AConsole.csproj.AssemblyReference.cache
+C:\Users\fnsss\Documents\GitHub\Teknoloji10-B\Teknoloji10-BConsole\Teknoloji10-AConsole\obj\Debug\net7.0\Teknoloji10-AConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fnsss\Documents\GitHub\Teknoloji10-B\Teknoloji10-BConsole\Teknoloji10-AConsole\obj\Debug\net7.0\Teknoloji10-AConsole.AssemblyInfoInputs.cache
+C:\Users\fnsss\Documents\GitHub\Teknoloji10-B\Teknoloji10-BConsole\Teknoloji10-AConsole\obj\Debug\net7.0\Teknoloji10-AConsole.AssemblyInfo.cs
+C:\Users\fnsss\Documents\GitHub\Teknoloji10-B\Teknoloji10-BConsole\Teknoloji10-AConsole\obj\Debug\net7.0\Teknoloji10-AConsole.csproj.CoreCompileInputs.cache
+C:\Users\fnsss\Documents\GitHub\Teknoloji10-B\Teknoloji10-BConsole\Teknoloji10-AConsole\obj\Debug\net7.0\Teknoloji10-AConsole.dll
+C:\Users\fnsss\Documents\GitHub\Teknoloji10-B\Teknoloji10-BConsole\Teknoloji10-AConsole\obj\Debug\net7.0\refint\Teknoloji10-AConsole.dll
+C:\Users\fnsss\Documents\GitHub\Teknoloji10-B\Teknoloji10-BConsole\Teknoloji10-AConsole\obj\Debug\net7.0\Teknoloji10-AConsole.pdb
+C:\Users\fnsss\Documents\GitHub\Teknoloji10-B\Teknoloji10-BConsole\Teknoloji10-AConsole\obj\Debug\net7.0\Teknoloji10-AConsole.genruntimeconfig.cache
+C:\Users\fnsss\Documents\GitHub\Teknoloji10-B\Teknoloji10-BConsole\Teknoloji10-AConsole\obj\Debug\net7.0\ref\Teknoloji10-AConsole.dll
